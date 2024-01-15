@@ -60,7 +60,7 @@ document.querySelector('.check').addEventListener('click', function()
                 document.querySelector('.message').textContent = '🤣TOO Low!';
                 score = score - 1;
                 document.querySelector('.score').textContent = score;
-                document.querySelector('.funny-comment').textContent = 'OO ja jaa ka kam ker💩💩💩';
+                document.querySelector('.funny-comment').textContent = 'No man💩';
                 document.querySelector('.funny-comment').style.fontSize = '20px';
                 document.querySelector('.funny-comment').style.paddingLeft = '587px';
             } else {
